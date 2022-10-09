@@ -1,0 +1,6 @@
+node:
+  id: s1
+  idMap: {'s1': 'localhost:3001', 's2': 'localhost:3002', 's3': 'localhost:3003'}
+
+server:
+  port: 3001
